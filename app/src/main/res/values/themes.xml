@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+    
+    <style name="AppNightTheme" parent="Theme.AppCompat">
+        
+    </style>
+
+    <style name="TranslateThemeFull" parent="Theme.AppCompat.Light">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <!-- 默认主题（日间模式） -->
+    <style name="XAppTheme" parent="AppBaseTheme">
+        <item name="android:buttonStyle">@android:style/Widget.Button</item>
+    </style>
+    
+    <!-- 夜间模式 -->
+    <style name="XAppNightTheme" parent="AppNightTheme">
+        
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cardname">
+        <item>通讯录</item>
+        <item>云文件</item>
+        <item>微信公告</item>
+        <item>我的工作</item>
+    </string-array>
+
+</resources>
